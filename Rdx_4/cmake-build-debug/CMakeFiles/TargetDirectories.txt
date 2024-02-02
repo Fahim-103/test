@@ -1,0 +1,3 @@
+/home/secure/CLionProjects/Rdx_4/cmake-build-debug/CMakeFiles/Rdx_4.dir
+/home/secure/CLionProjects/Rdx_4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/secure/CLionProjects/Rdx_4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
