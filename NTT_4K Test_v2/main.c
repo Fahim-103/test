@@ -4,7 +4,9 @@
 
 int main() {
 
-    static test_case_t tests = {.m = 10, .q = 0x10001, .w = 33, .w_inv = 1986, .n_inv.op = 65473};
+    //static test_case_t tests = {.m = 12, .q = 0x10001, .w = 13, .w_inv = 15124, .n_inv.op = 65521};
+
+    static test_case_t tests = {.m = 12, .q = 0x10001, .w = 21, .w_inv = 49933, .n_inv.op = 65521};
     //static test_case_t tests = {.m = 4, .q = 257, .w = 32, .w_inv = 2305, .n_inv.op = 755};
 
     _init_test(&tests);  //test_case parameter initiation
@@ -213,6 +215,7 @@ int main() {
 
         fwd_ntt_ref_harvey(a3, n1, t->q, w_powers_n1, w_powers_con_n1, m1);
 
+/*
         printf("test: ");
         for (int i =0; i< n1; i++){
 
@@ -222,6 +225,7 @@ int main() {
         printf("\n");
 
 
+*/
 
     }
 
