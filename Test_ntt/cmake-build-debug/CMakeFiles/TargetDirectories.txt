@@ -1,0 +1,3 @@
+/Users/fahimahmed/CLionProjects/Test_ntt/cmake-build-debug/CMakeFiles/Test_ntt.dir
+/Users/fahimahmed/CLionProjects/Test_ntt/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/fahimahmed/CLionProjects/Test_ntt/cmake-build-debug/CMakeFiles/rebuild_cache.dir
